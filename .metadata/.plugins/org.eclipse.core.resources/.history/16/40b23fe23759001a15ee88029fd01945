@@ -1,0 +1,11 @@
+package hello;
+
+public class tttt {
+	public static void main(String[] args) {
+		System.out.println("avc");
+		float a=3.14F;
+		String b="123";
+		int r = Integer.parseInt(b)-11 ;
+		System.out.println(r);
+	}
+}

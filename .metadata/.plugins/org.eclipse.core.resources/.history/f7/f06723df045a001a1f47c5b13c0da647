@@ -1,0 +1,17 @@
+package hello;
+//定义一个方法，用来判断两个数是否相同。
+public class ttt1 {
+	public static void main(String[] args) {
+		isname(9,9);
+		
+	}	
+	public static boolean isname(int a, int b){
+		boolean name;
+		if(a == b) {
+			name=true;
+		}else {
+			name=false;
+		}
+	return name;
+	}
+}
